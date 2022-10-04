@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
     <pages>
-        <page name='Adjusten Numbers'/>
-        <page name='Sum of poisitive'/>
-        <page name='Clock'/>
-        <page name='Factor'/>
-        <page name='HomeTask2_1'/>
+        <page name='HT2_1_adjusten_numbers'/>
+        <page name='HT2_2_sum_of_poisitive'/>
+        <page name='HT2_3_Clock'/>
+        <page name='HT2_4_factor'/>
+        <page name='functions_ht4_1_sum'/>
+        <page name='functions_ht4_2_tuples'/>
+        <page name='functions_ht4_3_closure'/>
+        <page name='functions_ht4_4_check_year'/>
+        <page name='OOP_ht6'/>
+        <page name='Generics'/>
+        <page name='Func_closure'/>
     </pages>
 </playground>
